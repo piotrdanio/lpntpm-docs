@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://lpntpm.lpnplant.io/</loc>
+         <lastmod>2021-10-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lpntpm.lpnplant.io/building/</loc>
+         <lastmod>2021-10-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lpntpm.lpnplant.io/how_to/</loc>
+         <lastmod>2021-10-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lpntpm.lpnplant.io/issues/</loc>
+         <lastmod>2021-10-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lpntpm.lpnplant.io/journal/</loc>
+         <lastmod>2021-10-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lpntpm.lpnplant.io/running/</loc>
+         <lastmod>2021-10-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
